@@ -12,7 +12,8 @@ Install Tkinter if you don't have it.
 
 
 Installation:
-~For Linux: sudo apt-get install python3-tk
+
+->For Linux: sudo apt-get install python3-tk
 
 
-~For Windows: pip install tk
+->For Windows: pip install tk
